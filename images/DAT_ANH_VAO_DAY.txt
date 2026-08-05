@@ -1,0 +1,1 @@
+Bỏ ảnh của bạn vào đây: photo1.jpg, photo2.jpg, ... photo6.jpg (xem README.md ở thư mục gốc)
